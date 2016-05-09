@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Reqs><Req><id>0</id><state>Submitted</state><summary>testWrite</summary><test>Does it write to file</test><priority>0</priority></Req></Reqs>
