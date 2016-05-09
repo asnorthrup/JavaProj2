@@ -10,7 +10,8 @@ import edu.ncsu.csc216.tracker.requirement.Command;
 import edu.ncsu.csc216.tracker.requirement.Requirement;
 import edu.ncsu.csc216.tracker.xml.Req;
 
-/**The list of requirements for the project
+/**This is a copy for git push
+ * The list of requirements for the project
  * @author Andrew Northrup
  *
  */
